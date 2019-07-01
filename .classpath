@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-core-1.2.5.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-html-0.2.3.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-java-1.2.5.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-junit-1.2.5.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-jvm-deps-1.0.5.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-reporting-0.1.14.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/hamcrest-core-2.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/RestAssured/rest-assured-4.0.0.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/activation-1.1.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/commons-lang3-3.4.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/groovy-2.5.6.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/groovy-json-2.5.6.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/groovy-xml-2.5.6.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/hamcrest-2.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/hamcrest-core-2.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/hamcrest-library-2.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/httpclient-4.5.3.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/httpcore-4.4.6.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/httpmime-4.5.3.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/jaxb-api-2.2.12.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/jaxb-osgi-2.2.10.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/org.apache.sling.javax.activation-0.1.0.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/tagsoup-1.2.1.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/gherkin-2.12.2.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-databind-2.9.9.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-dataformat-xml-2.9.9.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-core-2.9.9.jar"/>
-	<classpathentry kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-annotations-2.9.9.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cobertura-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-core-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-html-0.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-java-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/cucumber-reporting-0.1.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/hamcrest-core-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/RestAssured/rest-assured-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/groovy-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/groovy-json-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/groovy-xml-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/hamcrest-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/hamcrest-core-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/hamcrest-library-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/httpmime-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/jaxb-api-2.2.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/rest-assured-4.0.0-dist/rest-assured-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/gherkin-2.12.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-databind-2.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-dataformat-xml-2.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-core-2.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/Monica_Selenium/Australia_Resume/01_Resume and coverletter_Brisbane/JumboInteractive/jar_files/Cucumber_jars/jackson-annotations-2.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
