@@ -13,3 +13,6 @@ git clone https://github.com/monicangangurde/PetStore.git
 7) Click Add external jars --> Go to the "lib" folder which is present in the local folder(/PetStore)
 7) Select all the jar files from the lib folder and click Apply and Close
 8) Open the TestRunnerPetStore.java file present under (/src/TestRunner) and click Run As--> JUnit Test
+
+
+The Test-Plan, Requirements, Test-Cases and Traceability Matrix are present at the root of the project.
