@@ -44,8 +44,8 @@ Feature: Test-cases for store endpoint
     Then the response code must be 200
     And I should see response with pairs as below
       | id       |       9 |
-      | petId    |       3 |
-      | quantity |       2 |
+      | petId    |       5 |
+      | quantity |       5 |
       | status   | placed  |
       | complete | false   |
  
